@@ -21,7 +21,7 @@
 
 ### STEP 3: Go to "Console" tab and paste this code in:
 ```
-Object.defineProperty((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.isDeveloper!==void 0).exports.default,"isDeveloper",{get:()=>true});
+//* CODE BY ITZSIDHAN *// Object.defineProperty((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.isDeveloper!==void 0).exports.default,"isDeveloper",{get:()=>true}); //* CODE BY ITZSIDHAN *//
 ```
 
 #
