@@ -3,7 +3,7 @@
 #
 
 ### Code to unlock Discord Experiments!
-### This Was Created by [ItzSidhan](https://bit.ly/ItzSidhanYT)
+### This Was Created by [ItzNexus](https://youtube.com/ItzNexus)
 
 #
 
@@ -21,9 +21,9 @@
 
 ### STEP 3: Go to "Console" tab and paste this code in:
 ```
-// CODE BY ITZSIDHAN
+// CODE BY ITZNEXUS
 Object.defineProperty((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.isDeveloper!==void 0).exports.default,"isDeveloper",{get:()=>true});
-// CODE BY ITZSIDHAN
+// CODE BY ITZNEXUS
 ```
 
 #
